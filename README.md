@@ -21,7 +21,7 @@
 🌱 I’m currently learning 
 * Chinese,
 * Intermediate Mathmetics,
-* Intermediate English,
+* English,
 * Intermediate Physical,
 * Intermediate Chemistry,
 * Intermediate Biology,
