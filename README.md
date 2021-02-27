@@ -5,7 +5,7 @@
 # 浅香ジュン
 
 ### Hi there 👋
-💬 ＠Ｊｕｎ　ＡＳＡＫＡ
+💬 ＠Ｊｕｎ　**ＡＳＡＫＡ**
 > ⚡ Student, Reseacher, Philosopher
 
 😄 Also a Researcher of [@1st-Science-Academy-of-E-S-C](https://github.com/1st-Science-Academy-of-E-S-C) which is a 1-person (formalist) academy.　<br />
