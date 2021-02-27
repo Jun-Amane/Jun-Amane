@@ -12,9 +12,6 @@
 　　Public Email: jun@zzy040330.cn<br />
 　　Preferred Language: English(UK or US), Chinese(Simplified or Traditional), Japanese
 
-😄 Also a Researcher of [@1st-Science-Academy-of-E-S-C](https://github.com/1st-Science-Academy-of-E-S-C) which is a 1-person (formalist) academy.
-
-
 <a href="#">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=JunASAKA&hide_border=true&title_color=000&layout=compact">
 </a>
@@ -28,11 +25,7 @@
 * Intermediate Physical,
 * Intermediate Chemistry,
 * Intermediate Biology,
-<<<<<<< HEAD
-* Elementary Japanese,
-=======
 * Elementary Japaness,
->>>>>>> 504e59c4ba82289ddd992fd2b3529ebb64e7a722
 * Senior Mathmetics,
 * Senior Electricity,
 * Elementary Quantum Mechanics,
