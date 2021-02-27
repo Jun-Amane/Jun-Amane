@@ -35,7 +35,7 @@
 
 ## 📫 Get in touch
 
-[![](https://img.shields.io/badge/-blog.zzy040330.cn-4d4d4d?style=flat-square&logo=Bloglovin&logoColor=fff)](https://blog.zzy040330.cn)[![](https://img.shields.io/badge/-JunASAKA-00a1d6?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/674755428)[![](https://img.shields.io/badge/-JunASAKA-f59812?style=flat-square&logo=xda-developers&logoColor=white&labelColor=f59812)](https://forum.xda-developers.com/m/jun.11429065/)
+[![](https://img.shields.io/badge/-blog.zzy040330.cn-4d4d4d?style=flat-square&logo=Bloglovin&logoColor=fff)](https://blog.zzy040330.cn)[![](https://img.shields.io/badge/-浅香ジュン-00a1d6?style=flat-square&logo=bilibili&logoColor=FB5BC5)](https://space.bilibili.com/674755428)[![](https://img.shields.io/badge/-浅香ジュン-f59812?style=flat-square&logo=xda-developers&logoColor=white&labelColor=f59812)](https://forum.xda-developers.com/m/jun.11429065/)[![](https://img.shields.io/badge/-浅香ジュン-f59812?style=flat-square&logo=pixiv&logoColor=white&labelColor=0096FA)](https://www.pixiv.net/users/59611769)
 
 ----
 
