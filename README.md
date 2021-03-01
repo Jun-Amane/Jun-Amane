@@ -26,8 +26,8 @@
 * Intermediate Chemistry,
 * Intermediate Biology,
 * Elementary Japaness,
-* Senior Mathmetics,
-* Senior Electricity,
+* Advanced Mathmetics,
+* Advanced Electricity,
 * Elementary Quantum Mechanics,
 * Top-Level??? Philosophy???
 * ......
@@ -35,7 +35,7 @@
 
 ## 📫 Get in touch
 
-[![](https://img.shields.io/badge/-blog.zzy040330.cn-4d4d4d?style=flat-square&logo=Bloglovin&logoColor=fff)](https://blog.zzy040330.cn)[![](https://img.shields.io/badge/-浅香ジュン-FB5BC5?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/674755428)[![](https://img.shields.io/badge/-浅香ジュン-f59812?style=flat-square&logo=xda-developers&logoColor=white&labelColor=f59812)](https://forum.xda-developers.com/m/jun.11429065/)[![](https://img.shields.io/badge/-浅香ジュン-0096FA?style=flat-square&logo=pixiv&logoColor=white)](https://www.pixiv.net/users/59611769)
+[![](https://img.shields.io/badge/-1st-Science-Academy-of-E-S-C-4d4d4d?style=flat-square&logo=Bloglovin&logoColor=fff)](https://1stsaesc.zzy040330.cn)[![](https://img.shields.io/badge/-浅香ジュン-FB5BC5?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/674755428)[![](https://img.shields.io/badge/-浅香ジュン-f59812?style=flat-square&logo=xda-developers&logoColor=white&labelColor=f59812)](https://forum.xda-developers.com/m/jun.11429065/)[![](https://img.shields.io/badge/-浅香ジュン-0096FA?style=flat-square&logo=pixiv&logoColor=white)](https://www.pixiv.net/users/59611769)
 
 ----
 
