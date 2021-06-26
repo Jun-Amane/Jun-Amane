@@ -5,10 +5,10 @@
 # 浅香ジュン
 
 ### Hi there 👋
-💬 ＠Ｊｕｎ　**ＡＳＡＫＡ**
-> ⚡ Student, Reseacher, Philosopher
+💬 @Jun **ASAKA**
+> ⚡ Philosopher, Reseacher, Creator, Student
 
-😄 A Philosopher, Reseacher, Creature and Student.<br />
+😄 A Philosopher, Reseacher, Creator and Student.<br />
 　　Public Email: jun@zzy040330.cn<br />
 　　Preferred Language: English(UK or US), Chinese(Simplified or Traditional), Japanese
 
