@@ -35,7 +35,7 @@
 
 ## 📫 Get in touch
 
-[![](https://img.shields.io/badge/-JunASAKA-4d4d4d?style=flat-square&logo=Bloglovin&logoColor=fff)](https://www.zzy040330.cn)[![](https://img.shields.io/badge/-浅香ジュン-FB5BC5?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/674755428)[![](https://img.shields.io/badge/-浅香ジュン-f59812?style=flat-square&logo=xda-developers&logoColor=white&labelColor=f59812)](https://forum.xda-developers.com/m/jun.11429065/)[![](https://img.shields.io/badge/-浅香ジュン-0096FA?style=flat-square&logo=pixiv&logoColor=white)](https://www.pixiv.net/users/59611769)
+[![](https://img.shields.io/badge/-JunASAKA's-Blog-4d4d4d?style=flat-square&logo=Bloglovin&logoColor=fff)](https://www.zzy040330.cn)[![](https://img.shields.io/badge/-浅香ジュン-FB5BC5?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/674755428)[![](https://img.shields.io/badge/-浅香ジュン-f59812?style=flat-square&logo=xda-developers&logoColor=white&labelColor=f59812)](https://forum.xda-developers.com/m/jun.11429065/)[![](https://img.shields.io/badge/-浅香ジュン-0096FA?style=flat-square&logo=pixiv&logoColor=white)](https://www.pixiv.net/users/59611769)
 
 ----
 
