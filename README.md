@@ -6,10 +6,9 @@
 
 ### Hi there 👋
 💬 @Jun **ASAKA**
-> ⚡ Philosopher, Reseacher, Creator, Student
+> ⚡ Philosopher, Reseacher, Creator, Student from Shandong Agricultural University.
 
-😄 A Philosopher, Reseacher, Creator and Student.<br />
-　　Public Email: JunASAKA@zzy040330.moe<br />
+😄 Public Email: JunASAKA@zzy040330.moe<br />
 　　Preferred Language: English(UK or US), Chinese(Simplified or Traditional), Japanese
 
 <a href="#">
@@ -18,16 +17,9 @@
 
 🌱 I’m currently learning 
 * Chinese,
-* Intermediate Mathmetics,
 * English,
-* Intermediate Physical,
-* Intermediate Chemistry,
-* Intermediate Biology,
-* Elementary Japaness,
-* Advanced Mathmetics,
-* Advanced Electricity,
-* Elementary Quantum Mechanics,
-* Top-Level??? Philosophy???
+* Japanese,
+* General Philosophy
 * ......
 
 
