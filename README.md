@@ -2,7 +2,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=JunASAKA&show_icons=true&hide_border=true&icon_color=000&title_color=000&include_all_commits_disable=false&custom_title=Hi_there~&count_private=true">
 </a>
 
-# 浅香ジュン
+# Jun ASAKA
 
 ### Hi there 👋
 💬 @Jun **ASAKA**
