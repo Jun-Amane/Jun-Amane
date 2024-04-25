@@ -5,17 +5,17 @@
 # Jun Amane
 
 ### Hi there 👋
-💬 @Jun **Amane**
+💬 @Ziyu **Zhou** <br> aka. Jun Amane
 > ⚡ Free Reseacher, Undergradute Student from Shandong Agricultural University, majoring CS.
 
-😄 Academic Email: zzy040330@ieee.org<br />Public Email: Jun.Amane@zzy040330.moe<br />
-　　Preferred Language: English(UK or US), Chinese(Simplified or Traditional), Japanese
+😄 Academic Email: zzy040330@ieee.org<br />&emsp; Public Email: Jun.Amane@zzy040330.moe<br />
+&emsp; Preferred Language: English(UK or US), Chinese(Simplified or Traditional), Japanese
 
 <a href="#">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jun-Amane&hide_border=true&title_color=000&layout=compact">
 </a>
 
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on ...
 * Computer System,
 * Computer vision,
 * Multimodal deel learning
@@ -29,7 +29,7 @@
 
 ## 📫 Get in touch
 
-ORCID: [https://orcid.org/0000-0001-5727-2427]
+ORCID: [https://orcid.org/0000-0001-5727-2427] <br />
 ResearchGate: [https://www.researchgate.net/profile/Ziyu-Zhou-36]
 
 ----
