@@ -18,7 +18,7 @@
 🔭 I’m currently working on ...
 * Computer System,
 * Computer vision,
-* Multimodal deel learning
+* Multimodal deep learning
 
 🌱 I’m currently learning 
 * Computer system,
