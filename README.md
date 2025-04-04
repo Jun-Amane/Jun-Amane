@@ -29,7 +29,7 @@
 
 ## 📫 Get in touch
 
-ORCID: [https://orcid.org/0000-0001-5727-2427] <br />
+ORCID: [https://orcid.org/0000-0002-7017-5397] <br />
 ResearchGate: [https://www.researchgate.net/profile/Ziyu-Zhou-36]
 
 ----
