@@ -1,6 +1,3 @@
-<a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Jun-Amane&show_icons=true&hide_border=true&icon_color=000&title_color=000&include_all_commits_disable=false&custom_title=Hi_there~&count_private=true">
-</a>
 
 # Jun Amane
 
@@ -12,7 +9,7 @@
 &emsp; Preferred Language: English(UK or US), Chinese(Simplified or Traditional), Japanese
 
 <a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jun-Amane&hide_border=true&title_color=000&layout=compact">
+<img align="right" src="coat_of_arms_transp.webp" width=233>
 </a>
 
 🔭 I’m currently working on ...
