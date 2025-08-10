@@ -1,5 +1,5 @@
 
-# Jun Amane
+# Ziyu Zhou
 
 ### Hi there 👋
 💬 @Ziyu **Zhou** <br> aka. Jun Amane
