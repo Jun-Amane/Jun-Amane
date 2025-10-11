@@ -1,8 +1,8 @@
 
-# Ziyu Zhou
+# Sophiel "Ziyu" Zhou
 
 ### Hi there 👋
-💬 @Ziyu **Zhou** <br> aka. Jun Amane
+💬 @Sophiel **Zhou** <br> aka. Ziyu Zhou
 > ⚡ Free Reseacher, Undergradute Student from Shandong Agricultural University, majoring CS.
 
 😄 Academic Email: zzy040330@ieee.org<br />&emsp; Public Email: Jun.Amane@zzy040330.moe<br />
