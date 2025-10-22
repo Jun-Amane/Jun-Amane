@@ -3,7 +3,8 @@
 
 ### Hi there 👋
 💬 @Sophiel **Zhou** <br> aka. Ziyu Zhou
-> ⚡ Free Reseacher, Undergradute Student from Shandong Agricultural University, majoring CS.
+> ⚡ Free Reseacher, Undergradute Student from Shandong Agricultural University, majoring CS. <br />
+>   &emsp;&nbsp; Amateur radio operator (on-air callsign: ![BG4KNN](https://www.qrz.com/db/BG4KNN))
 
 😄 Academic Email: zzy040330@ieee.org<br />&emsp; Public Email: Jun.Amane@zzy040330.moe<br />
 &emsp; Preferred Language: English(UK or US), Chinese(Simplified or Traditional), Japanese
