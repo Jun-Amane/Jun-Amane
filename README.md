@@ -1,55 +1,51 @@
-
-# Sophiel "Ziyu" Zhou
-
-### Hi there 👋
-💬 @Sophiel **Zhou** <br> aka. Ziyu Zhou
-> ⚡ Free Reseacher, Undergradute Student from Shandong Agricultural University, majoring CS. <br />
->   &emsp;&nbsp; Amateur radio operator (on-air callsign: [BG4KNN](https://www.qrz.com/db/BG4KNN))
-
-😄 Academic Email: zzy040330@ieee.org<br />&emsp; Public Email: Jun.Amane@zzy040330.moe<br />
-&emsp; Preferred Language: English(UK or US), Chinese(Simplified or Traditional), Japanese
+# 🐾 Sophiel Zhou (Ziyu Zhou)
 
 <a href="#">
-<img align="right" src="coat_of_arms_transp.webp" width=233>
+  <img align="right" src="coat_of_arms_transp.webp" width="233" alt="Coat of Arms">
 </a>
 
-🔭 I’m currently working on ...
-* Computer System,
-* Computer vision,
-* Multimodal deep learning
+> *Veritas vos liberabit* — “The truth will set you free.”
 
-🌱 I’m currently learning 
-* Computer system,
-* Deep learning
-* Philosophy
-* ......
+💬 **Sophiel Zhou**  
+aka. **Ziyu Zhou**  
+🎓 Undergraduate Student @ Shandong Agricultural University  
+⚡ Free Researcher | Computer Science & Engineering Major  
+📡 Amateur Radio Operator ([BG4KNN](https://www.qrz.com/db/BG4KNN))
 
+---
 
-## 📫 Get in touch
+### 🌟 About Me
+I’m a **research-oriented developer** passionate about:
+- 🌐 Computer systems & architectures  
+- 🧠 Computer vision and multimodal deep learning  
+- 🪶 Philosophy of mind, cognition, and truth  
 
-ORCID: [https://orcid.org/0000-0002-7017-5397] <br />
-ResearchGate: [https://www.researchgate.net/profile/Ziyu-Zhou-36]
+I enjoy exploring how *intelligence* emerges — both in code and in thought.  
+Sometimes curious, sometimes meow~ 🐱
 
-----
+---
 
-🤔 Find out more of my awesome projects below, or subscribe me by clicking the "Follow" button.
+### 🌱 Currently Learning
+- Advanced topics in deep learning  
+- Systems programming  
+- Philosophy (Buddhism & epistemology)  
 
-----
+---
 
+### 📫 Get in Touch
+📧 Academic: **zzy040330@ieee.org**  
+📮 Public: **sophiel@zzy040330.moe**  
+🌐 ORCID: [0000-0002-7017-5397](https://orcid.org/0000-0002-7017-5397)  
+🔗 ResearchGate: [Ziyu Zhou](https://www.researchgate.net/profile/Ziyu-Zhou-36)  
 
+Preferred languages: English 🇬🇧 / Chinese 🇨🇳 / Japanese 🇯🇵  
 
+---
 
-<!--
-**JunASAKA/JunASAKA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐱 Meow Side Note
+> Three things cannot be long hidden: the sun, the moon, and the truth.
+> 
+> — The Buddha
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
