@@ -43,9 +43,32 @@ Preferred languages: English 🇬🇧 / Chinese 🇨🇳 / Japanese 🇯🇵
 ---
 
 ### 🐱 Meow Side Note
-> Three things cannot be long hidden: the sun, the moon, and the truth.
+
+> 今日も探すよサイエンスみたいに，
 > 
-> — The Buddha
+> さっぱりさらさら散々な，
+> 
+> 毎日だろうとフラスコの反応，
+> 
+> 存在証明 見つけたい，
+> 
+> 嗚呼，
+> 
+> 解が無いなんて言わないでくれよ，
+> 
+> 必死に生きてるこのセカイ，
+> 
+> 今誰も知らない定理を見つけて，
+> 
+> この寂しさにお別れを，
+> 
+> 少しの眠れぬ夜に，
+> 
+> この魔法がほのかに灯るなら，
+> 
+> 今がそんなに悪くないって，
+> 
+> 笑える時まで今日もScience！
 
 ---
 
